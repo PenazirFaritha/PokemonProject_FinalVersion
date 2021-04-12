@@ -2,11 +2,9 @@
 
 ## Prerequisites
 
-* [Visual Studio 2017 version 15.7.3 or later](https://www.microsoft.com/net/download/windows) with the following workloads:
+* [Visual Studio 2017 version and above.
    *  ASP.NET and web development
    * .NET Core cross-platform development
-* IIS server *(optional)*
-* MySQL or MariaDB server
 * [.NET Core 2.1 SDK or later](https://www.microsoft.com/net/download/windows)
 * [.NET Framework 4.7.2 or later](https://www.microsoft.com/net/download/windows)
 
