@@ -24,4 +24,6 @@
 * Have consumed the Pokemon online API to retirieve the Pokemon details.
 * But as per the requirement, couldn't use translator end point, because it is asking to do subscription in order to use that.
 
-Please let me know if I would need to walkthrough the solution or do any more enhancements.
+## Note : 
+
+Since, i have used my client laptop I couldnt install any open source database. 
